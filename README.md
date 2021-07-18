@@ -1,5 +1,6 @@
 # pipeline-qiime-2
-Taxonomic composition and diversity of bacteria and archaea with QIIME 2
+Taxonomic composition and diversity of bacteria and archaea with QIIME 2.
+
 
 This pipeline consists of seven scripts that must be downloaded from the "scr" folder.
 
