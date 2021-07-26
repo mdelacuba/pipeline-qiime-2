@@ -16,7 +16,7 @@ For pipeline execution, please read and follow the instructions described in "ma
 
 #### Workflow:
 
-![alt text](https://user-images.githubusercontent.com/78709193/127070601-6a987c91-5df5-44da-b16a-1d71ac04f4ec.png)
+![alt text](https://user-images.githubusercontent.com/78709193/127072345-41d709ce-f137-4c05-bea8-fc9ddde74d26.png)
 
 -> Input data: Multiplexed V4 16S rRNA paired-end reads (R1, R2, I1 files) and sample metadata table(s).
 
