@@ -1,6 +1,6 @@
 # pipeline-qiime-2: Taxonomic and diversity analyses of bacteria and archaea using QIIME 2
 
-QIIME 2 execution-based pipeline to automate usual steps for taxonomic and diversity analyses of 16S rRNA paired-end reads from a single or multiple sequencing runs at once and maintaining parameter customization as required.
+QIIME 2 execution-based pipeline to automate usual steps for taxonomic and diversity analyses of 16S rRNA paired-end reads from a single or multiple sequencing runs at once and maintaining parameter customization as required. 
 
 This pipeline is based on QIIME 2 version 2020.11 and written in Bash Shell scripts (for Unix or MacOS).
 
@@ -14,7 +14,9 @@ https://drive.google.com/file/d/15hY95a1Kyk-iSbZYHjJPG0eWkDaJBjQH/view?usp=shari
 
 For pipeline execution, please read and follow the instructions described in "manual.pdf".
 
+#### Workflow:
 
+![alt text](https://user-images.githubusercontent.com/78709193/127070601-6a987c91-5df5-44da-b16a-1d71ac04f4ec.png)
 
 -> Input data: Multiplexed V4 16S rRNA paired-end reads (R1, R2, I1 files) and sample metadata table(s).
 
