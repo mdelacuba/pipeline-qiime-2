@@ -9,6 +9,7 @@ This pipeline is based on QIIME 2 version 2020.11 and written in Bash Shell scri
 This pipeline consists of seven scripts that must be downloaded from the "src" folder.
 
 A taxonomy classifier of Silva v138 515f-806r("classifier.qza" file) must be downloaded from here:
+
 https://drive.google.com/file/d/15hY95a1Kyk-iSbZYHjJPG0eWkDaJBjQH/view?usp=sharing
 
 For pipeline execution, please read and follow the instructions described in "manual.pdf".
